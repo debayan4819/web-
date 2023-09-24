@@ -1,0 +1,10 @@
+2.comments are not displayed in thed output basically it stops the elements to render in the website
+It is useful for the coders to explain the code which can help the other coders to understand the code for editing it later.
+4.An element on a webpage is made using a tag. Angle brackets are used to enclose each tag. An opening tag and a closing tag make up the majority of HTML tags, which are typically used in pairs. examples <hr>,<br>,<head></head>,etc
+
+A website's basic building block is an element. An end tag, some content, and a start tag make up an HTML element.
+
+The start tag and the end tag together make up the HTML element.
+ For instance, "This is a Heading" is the content, and "h1" is the opening (start) and closing (end) tags. An HTML element is the collective term for the opening tag, the content, and the closing tag on a line of code.
+5.The<DOCTYPE> declaration informs the web browser of the HTML version used to create the page. It is not an HTML tag; rather, it informs the web browser of the version of HTML that was used to create the page.
+
